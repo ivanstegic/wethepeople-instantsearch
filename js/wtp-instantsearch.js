@@ -2,7 +2,7 @@ $(document).ready(function(){
 	$('#wtp-instant-search').typeahead({
 		limit: 10,
 		prefetch: {
-			url: '/json/wtp-petitions.json',
+			url: 'json/wtp-petitions.json',
 			filter: function(respData) {
 				var presuggestions = new Array();
 				//console.log(respData);
