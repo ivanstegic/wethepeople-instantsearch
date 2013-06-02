@@ -16,11 +16,12 @@ Instant Search of Petitions is being developed as part of the [National Day of C
 White House](http://www.whitehouse.gov/developers/apply-national-day-civic-hacking-white-house). It leverages the
 [We the People API](https://petitions.whitehouse.gov/developers) to access petition data.
 
-Contributors:
-
+Author:
 * [Ivan Stegic](https://github.com/ivanstegic)
-* [Garrett Miller](https://github.com/heyitsgarrett)
-* [Yoni Ben-Meshulam](https://github.com/yoni)
+
+Contributors:
+* Sentiment analysis by [Yoni Ben-Meshulam](https://github.com/yoni)
+* Map visualization by [Garrett Miller](https://github.com/heyitsgarrett)
 
 ### Contributing
 
